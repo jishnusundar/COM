@@ -1,0 +1,19 @@
+{
+  "name": "connectapp",
+  "version": "1.0.0",
+  "description": "Test application",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Connect"
+  ],
+  "author": "Jishnu",
+  "license": "ISC"
+}
